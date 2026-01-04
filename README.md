@@ -27,122 +27,74 @@
 
 ## 💼 Expériences professionnelles
 
-### 🧠 Association ARSII – Stagiaire en apprentissage automatique  
-📅 08/2025 – 10/2025  
-- Développement d’un modèle **Machine Learning** pour prédire le handicap post-AVC à partir de données cliniques et biologiques  
-- Création d’une application **Full-Stack** pour les professionnels de santé  
-- Implémentation d’un pipeline complet : prétraitement, EDA, classification, validation croisée  
-- Intégration de méthodes d’**explicabilité (SHAP)**  
+- **Stagiaire Machine Learning – Association ARSII**  
+  Prédiction médicale, analyse de données cliniques, explicabilité des modèles (SHAP)
 
-**Technologies** : Python, Scikit-learn, FastAPI, React, MongoDB, SHAP, IA Médicale  
+- **Stagiaire IA / NLP – Ostrix**  
+  Classification automatique de produits à partir de descriptions textuelles
 
----
+- **Stagiaire Machine Learning – Association ARSII**  
+  Modélisation prédictive pour la détection de maladies rénales
 
-### 🧠 Ostrix – Stagiaire en IA / NLP  
-📅 07/2024 – 08/2024  
-- Développement d’un modèle prédictif pour la **classification automatique de produits**  
-- Mise en place de pipelines de **vectorisation de texte**  
-- Implémentation et optimisation d’algorithmes de classification  
+- **Stagiaire Développement Full-Stack – MSIT Digital**  
+  Application web MERN pour la correspondance de CV et projets
 
-**Technologies** : Python, Pandas, NumPy, Scikit-learn, CatBoost, TF-IDF, BERT  
+- **Stagiaire Bases de Données – GPRO Consulting**  
+  Développement et optimisation SQL / PL-SQL
 
----
-
-### 🧠 Association ARSII – Stagiaire en Machine Learning  
-📅 06/2024 – 08/2024  
-- Développement de modèles prédictifs pour la **prévision de maladies rénales**  
-- Prétraitement et analyse de données médicales  
-- Entraînement et évaluation de modèles ML avec visualisation des performances  
-
-**Technologies** : Python, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch  
+- **Stagiaire Développement Web – Proxym IT**  
+  Site web vitrine avec gestion dynamique de contenu
 
 ---
 
-### 💻 MSIT Digital – Stagiaire Développement Full-Stack (PFE Licence)  
-📅 02/2023 – 06/2023  
-- Développement d’un **système de correspondance de CV**  
-- Conception d’interfaces utilisateur avec React.js  
-- Mise en place d’API RESTful avec Node.js / Express  
-- Optimisation de bases de données MongoDB  
-- Travail en **méthodologie Agile**  
+## 🚀 Projets (idées principales)
 
-**Technologies** : MongoDB, Express, React.js, Node.js, REST APIs  
+- **Analyse prédictive des accidents routiers**  
+  Modélisation de données pour identifier les zones à risque
 
----
+- **Système de recommandation de films**  
+  Recommandation personnalisée basée sur les préférences utilisateurs
 
-### 🗄️ GPRO Consulting SARL – Stagiaire Bases de Données  
-📅 07/2022 – 08/2022  
-- Développement de fonctions et procédures **SQL / PL-SQL**  
-- Optimisation des requêtes PostgreSQL  
-
----
-
-### 🌐 Proxym IT – Stagiaire Développement Web  
-📅 07/2021 – 08/2021  
-- Développement d’un site web vitrine  
-- Gestion dynamique de contenus multimédias  
-
-**Technologies** : HTML, CSS, JavaScript  
-
----
-
-## 🚀 Projets
-
-### 📊 Analyse prédictive des accidents routiers  
-- Conception d’un pipeline automatisé avec **Scikit-learn**  
-- EDA, nettoyage, encodage, normalisation, gestion des valeurs manquantes  
-- Rééquilibrage des classes avec **SMOTE**  
-- Modélisation prédictive et visualisation des résultats  
-
-**Technologies** : Python, Scikit-learn, Pandas, NumPy, Matplotlib  
-
----
-
-### 🎬 Système de recommandation de films  
-- Architecture basée sur des **microservices**  
-- Communication via REST API, gRPC, Kafka et GraphQL  
-- Intégration d’un modèle IA simple avec **Ollama**  
-
-**Technologies** : Python, Microservices, Kafka, GraphQL, MongoDB  
+- **Applications IA pour la santé**  
+  Utilisation du machine learning pour l’aide au diagnostic et à la prédiction médicale
 
 ---
 
 ## 🛠️ Compétences
 
-### 🔤 Langages de programmation  
-Python | Java | JavaScript | R | PHP | SQL | Dart | C | C++ | C#
+**Langages**  
+Python | Java | JavaScript | R | PHP | SQL | C | C++ | C# | Dart  
 
-### 📱 Développement mobile  
-Flutter  
+**Data & IA**  
+Machine Learning | Deep Learning | NLP | Analyse de données  
 
-### 🗄️ Bases de données  
-MySQL | PostgreSQL | MongoDB | Oracle | PL/SQL  
+**Web & Mobile**  
+React | Angular | Node.js | Express | HTML | CSS | Flutter  
 
-### ⚙️ Outils & Frameworks  
+**Bases de données**  
+MySQL | PostgreSQL | MongoDB | Oracle  
+
+**Outils**  
 GitHub | Docker | Azure | FastAPI | Figma  
-
-### 🌐 Développement Web  
-React | Angular | Node.js | Express | HTML | CSS  
 
 ---
 
 ## 📜 Certifications
 
-- Microsoft Certified – **Azure AI Fundamentals (AI-900)**  
-- Microsoft Certified – **Azure Fundamentals (AZ-900)**  
-- IT Specialist – **Python (Certiport)**  
-- Deep Learning Fundamentals – **NVIDIA Deep Learning Institute**  
-- CCNAv7 – Introduction to Networks (Cisco)  
+- Microsoft Certified – Azure AI Fundamentals (AI-900)  
+- Microsoft Certified – Azure Fundamentals (AZ-900)  
+- IT Specialist – Python  
+- Deep Learning Fundamentals – NVIDIA  
+- CCNAv7 – Cisco  
 - DELF B2 – Français  
 
 ---
 
 ## 🌍 Langues
 
-- Français : Courant  
-- Anglais : Intermédiaire avancé  
-- Arabe : Natif  
-
+Français : Courant  
+Anglais : Intermédiaire avancé  
+Arabe : Natif  
 ---
 
 ⭐ *Merci de visiter mon profil GitHub. N’hésitez pas à explorer mes projets ou à me contacter pour toute opportunité de collaboration ou de stage.*
