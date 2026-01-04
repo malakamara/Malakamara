@@ -19,20 +19,6 @@
 
 ---
 
-## Parcours scolaire
-
-![Education](https://img.shields.io/badge/Diplôme%20National%20d'Ingénieur-Génie%20Informatique-6C5CE7?style=flat-square&logo=university&logoColor=white)
-**Parcours Data & Intelligence Artificielle**  
-**École Polytechnique de Sousse**  
-![Date](https://img.shields.io/badge/09/2023–2026-Active-0984E3?style=flat-square)
-
-![Education](https://img.shields.io/badge/Licence-Sciences%20de%20l'Informatique-6C5CE7?style=flat-square&logo=graduation-cap&logoColor=white)
-**Parcours Génie Logiciel**  
-**École Supérieure des Sciences et de la Technologie de Hammam Sousse**  
-![Date](https://img.shields.io/badge/09/2020–06/2023-Completed-0984E3?style=flat-square)
-
----
-
 ## Expériences professionnelles
 
 ![ML](https://img.shields.io/badge/Stagiaire-Machine%20Learning-FF6B6B?style=flat-square&logo=brain&logoColor=white) **Association ARSII**  
